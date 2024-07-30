@@ -1,0 +1,15 @@
+.sliding-siva {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Make sure the container takes the full width */
+    height: 400px; /* Adjust height as needed */
+    overflow: visible; /* Hide any overflow */
+  }
+  
+  .sliding-siva img {
+    width: 100%; /* Ensure the image takes the full width */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Cover the container */
+  }
+  
