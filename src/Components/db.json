@@ -1,0 +1,231 @@
+{
+  "prepaidPlans": [
+    {
+      "id": 1,
+      "price": "₹3599",
+      "validity": "365 Days",
+      "data": "2.5 GB/Day",
+      "subscription": ["YouTube", "+1 more"],
+      "monthlyCost": "₹276",
+      "details": "UNLIMITED TRUE 5G DATA"
+    },
+    {
+      "id": 2,
+      "price": "₹2999",
+      "validity": "300 Days",
+      "data": "2 GB/Day",
+      "subscription": ["Netflix", "+2 more"],
+      "monthlyCost": "₹250",
+      "details": "UNLIMITED DATA AND CALLS"
+    },
+    {
+      "id": 3,
+      "price": "₹1999",
+      "validity": "180 Days",
+      "data": "1.5 GB/Day",
+      "subscription": ["Amazon Prime", "+1 more"],
+      "monthlyCost": "₹167",
+      "details": "HIGH SPEED DATA WITH EXTRA BENEFITS"
+    },
+    {
+      "id": 4,
+      "price": "₹1299",
+      "validity": "90 Days",
+      "data": "1 GB/Day",
+      "subscription": ["Disney+ Hotstar", "+1 more"],
+      "monthlyCost": "₹144",
+      "details": "AFFORDABLE DATA PLAN"
+    },
+    {
+      "id": 5,
+      "price": "₹849",
+      "validity": "60 Days",
+      "data": "1.5 GB/Day",
+      "subscription": ["Spotify", "+1 more"],
+      "monthlyCost": "₹141",
+      "details": "VALUE FOR MONEY PLAN"
+    },
+    {
+      "id": 6,
+      "price": "₹499",
+      "validity": "30 Days",
+      "data": "1 GB/Day",
+      "subscription": ["No Subscription"],
+      "monthlyCost": "₹499",
+      "details": "BASIC DATA PLAN"
+    }
+
+  ],
+
+  "postpaidPlans": [
+    {
+      "id": 1,
+      "price": "₹799",
+      "validity": "30 Days",
+      "data": "50 GB",
+      "subscription": ["Amazon Prime", "Netflix"],
+      "monthlyCost": "₹799",
+      "details": "UNLIMITED CALLS & 50 GB DATA"
+    },
+    {
+      "id": 2,
+      "price": "₹999",
+      "validity": "30 Days",
+      "data": "100 GB",
+      "subscription": ["Amazon Prime", "Netflix", "Disney+"],
+      "monthlyCost": "₹999",
+      "details": "UNLIMITED CALLS & 100 GB DATA"
+    },
+    {
+      "id": 3,
+      "price": "₹1299",
+      "validity": "30 Days",
+      "data": "150 GB",
+      "subscription": ["Amazon Prime", "Netflix", "Disney+"],
+      "monthlyCost": "₹1299",
+      "details": "UNLIMITED CALLS & 150 GB DATA"
+    },
+    {
+      "id": 4,
+      "price": "₹1599",
+      "validity": "30 Days",
+      "data": "200 GB",
+      "subscription": ["Amazon Prime", "Netflix", "Disney+", "Spotify"],
+      "monthlyCost": "₹1599",
+      "details": "UNLIMITED CALLS & 200 GB DATA"
+    },
+    {
+      "id": 5,
+      "price": "₹1999",
+      "validity": "30 Days",
+      "data": "300 GB",
+      "subscription": ["Amazon Prime", "Netflix", "Disney+", "Spotify", "Hulu"],
+      "monthlyCost": "₹1999",
+      "details": "UNLIMITED CALLS & 300 GB DATA"
+    },
+    {
+      "id": 6,
+      "price": "₹2499",
+      "validity": "30 Days",
+      "data": "500 GB",
+      "subscription": ["Amazon Prime", "Netflix", "Disney+", "Spotify", "Hulu"],
+      "monthlyCost": "₹2499",
+      "details": "UNLIMITED CALLS & 500 GB DATA"
+    }
+  ],
+    "dthPlans": [
+      {
+        "id": 1,
+        "price": "₹5999",
+        "validity": "365 Days",
+        "data": "200 Channels",
+        "subscription": ["Sports", "Entertainment"],
+        "monthlyCost": "₹500",
+        "details": "UNLIMITED CHANNELS"
+      },
+      {
+        "id": 2,
+        "price": "₹4999",
+        "validity": "365 Days",
+        "data": "150 Channels",
+        "subscription": ["Movies", "Kids"],
+        "monthlyCost": "₹420",
+        "details": "SELECT CHANNELS PACK"
+      },
+      {
+        "id": 3,
+        "price": "₹6999",
+        "validity": "365 Days",
+        "data": "250 Channels",
+        "subscription": ["Premium", "HD Channels"],
+        "monthlyCost": "₹580",
+        "details": "PREMIUM CHANNELS PACKAGE"
+      },
+      {
+        "id": 4,
+        "price": "₹3999",
+        "validity": "365 Days",
+        "data": "100 Channels",
+        "subscription": ["Entertainment", "News"],
+        "monthlyCost": "₹350",
+        "details": "BASIC CHANNELS PACKAGE"
+      },
+      {
+        "id": 5,
+        "price": "₹7999",
+        "validity": "365 Days",
+        "data": "300 Channels",
+        "subscription": ["Movies", "Sports", "HD Channels"],
+        "monthlyCost": "₹650",
+        "details": "ULTIMATE CHANNELS PACKAGE"
+      },
+      {
+        "id": 6,
+        "price": "₹4999",
+        "validity": "365 Days",
+        "data": "200 Channels",
+        "subscription": ["Kids", "Entertainment"],
+        "monthlyCost": "₹420",
+        "details": "FAMILY CHANNELS PACKAGE"
+      }
+    ],
+    "fiberPlans": [
+      {
+        "id": 1,
+        "price": "₹1999",
+        "validity": "30 Days",
+        "data": "1000 GB",
+        "subscription": ["Netflix", "Prime Video"],
+        "monthlyCost": "₹1999",
+        "details": "HIGH SPEED FIBER INTERNET"
+      },
+      {
+        "id": 2,
+        "price": "₹2499",
+        "validity": "30 Days",
+        "data": "1500 GB",
+        "subscription": ["Netflix", "Prime Video", "Disney+"],
+        "monthlyCost": "₹2499",
+        "details": "ULTRA HIGH SPEED FIBER INTERNET"
+      },
+      {
+        "id": 3,
+        "price": "₹2999",
+        "validity": "30 Days",
+        "data": "2000 GB",
+        "subscription": ["Netflix", "Prime Video", "Disney+", "HBO"],
+        "monthlyCost": "₹2999",
+        "details": "PREMIUM FIBER INTERNET PACKAGE"
+      },
+      {
+        "id": 4,
+        "price": "₹3499",
+        "validity": "30 Days",
+        "data": "2500 GB",
+        "subscription": ["Netflix", "Prime Video", "Disney+", "HBO", "ESPN"],
+        "monthlyCost": "₹3499",
+        "details": "EXCLUSIVE FIBER INTERNET PACKAGE"
+      },
+      {
+        "id": 5,
+        "price": "₹3999",
+        "validity": "30 Days",
+        "data": "3000 GB",
+        "subscription": ["Netflix", "Prime Video", "Disney+", "HBO", "ESPN", "Hulu"],
+        "monthlyCost": "₹3999",
+        "details": "ULTIMATE FIBER INTERNET PACKAGE"
+      },
+      {
+        "id": 6,
+        "price": "₹2499",
+        "validity": "30 Days",
+        "data": "1500 GB",
+        "subscription": ["Netflix", "Prime Video"],
+        "monthlyCost": "₹2499",
+        "details": "HIGH SPEED FIBER INTERNET"
+      }
+    ]
+  }
+  
+
+
